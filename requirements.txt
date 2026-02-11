@@ -2,7 +2,7 @@
 streamlit==1.28.0
 
 # Data Analysis
-numpy==2.4.2
+numpy==1.26.4
 pandas==2.3.3
 
 # Plotting
@@ -14,4 +14,4 @@ bcrypt==4.0.1
 python-dotenv==1.0.0
 
 # Streamlit Menu
-streamlit-option-menu==0.5.2
+streamlit-option-menu==0.4.0
