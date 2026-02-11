@@ -1,9 +1,17 @@
-
+# Streamlit
 streamlit==1.28.0
-pandas==2.1.3
-numpy==1.24.3
+
+# Data Analysis
+numpy==2.4.2
+pandas==2.3.3
+
+# Plotting
 plotly==5.17.0
 openpyxl==3.1.2
+
+# Security & Environment
 bcrypt==4.0.1
 python-dotenv==1.0.0
-streamlit-option-menu
+
+# Streamlit Menu
+streamlit-option-menu==0.5.2
